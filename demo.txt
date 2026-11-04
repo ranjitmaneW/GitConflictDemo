@@ -1,6 +1,2 @@
 Welcome to Java
-<<<<<<< HEAD
-Welcome to Master Developer
-=======
-Welcome to Login Developer
->>>>>>> login
+
